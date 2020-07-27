@@ -2,7 +2,7 @@
   <div class="center">
     <!-- 模板中的某个位置，无法确定内容 -->
     <!-- 插槽 -->
-    <slot>默认值</slot>
+    <slot>默认值q</slot>
   </div>
 </template>
 
