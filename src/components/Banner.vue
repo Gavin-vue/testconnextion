@@ -32,7 +32,7 @@ export default {
   props: {
     banners: {
       type: Array, //属性类型是数组
-      required: true, //必须要传递该属性
+      required: true, //必须要传递该属性1
     },
     duration: {
       type: Number,
@@ -47,7 +47,7 @@ export default {
   },
   data() {
     return {
-      index: 0, //当前显示的是第几张图片
+      index: 0, //当前显示的是第几张图片1
       timer: null,
     };
   },
