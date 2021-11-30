@@ -36,7 +36,7 @@ export default {
     },
     duration: {
       type: Number,
-      default: 2000, //属性默认值
+      default: 2000, //属性默认值1
     },
   },
   created() {
@@ -47,7 +47,7 @@ export default {
   },
   data() {
     return {
-      index: 0, //当前显示的是第几张图片1
+      index: 0, //当前显示的是第几张图片1111
       timer: null,
     };
   },
